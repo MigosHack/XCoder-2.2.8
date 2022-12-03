@@ -1,6 +1,8 @@
-"# XCoder-2.2.8" 
+# XCoder
 
-How to use?
-1.Install node js
-2..start start.js
-Confirm!
+## About
+
+Tool for decoding and encoding .sc textures
+
+### Installing
+run start.js
